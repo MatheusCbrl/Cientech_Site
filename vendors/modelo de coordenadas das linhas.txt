@@ -1,0 +1,122 @@
+export default {
+
+  data:[
+
+    {
+
+      title: 'Galópolis',
+
+      body: 'Ponto 01'
+
+    },
+
+    {
+
+      title: 'Galópolis',
+
+      body: 'Ponto 02'
+
+    },
+
+    {
+
+      title: 'Galópolis',
+
+      body: 'Ponto 03'
+
+    },
+
+    {
+
+      title: 'Galópolis',
+
+      body: 'Ponto 04'
+
+    },
+
+    {
+
+      title: 'Galópolis',
+
+      body: 'Ponto 05'
+
+    },
+        {
+
+      title: 'Galópolis',
+
+      body: 'Ponto 06'
+
+    },
+
+    {
+
+      title: 'Santa Corona',
+
+      body: 'Ponto 07'
+
+    },
+
+    {
+
+      title: 'Santa Corona',
+
+      body: 'Ponto 08'
+
+    },
+
+    {
+
+      title: 'Santa Corona',
+
+      body: 'Ponto 09'
+
+    },
+        {
+
+      title: 'Santa Corona',
+
+      body: 'Ponto 10'
+
+    },
+
+    {
+
+      title: 'Santa Corona',
+
+      body: 'Ponto 11'
+
+    },
+
+    {
+
+      title: 'Santa Corona',
+
+      body: 'Ponto 12'
+
+    },
+        {
+
+      title: 'Santa Corona',
+
+      body: 'Ponto 13'
+
+    },
+        {
+
+      title: 'Santa Corona',
+
+      body: 'Ponto 14'
+
+    },
+    {
+
+      title: 'Empresa',
+
+      body: 'Chegada'
+
+    }
+
+  ]
+
+}
